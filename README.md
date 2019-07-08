@@ -19,5 +19,9 @@ A backend software application that helps each recruit and any inquiries they mi
 `{name: String, surname: String, age: Number, date: Date, inquiry: String, assistedBy: String}`
 
 ### User Form
+This is a backend software that process a user's airline booking. This is done using a form and it collects the information
+and stores it on a database.
 
 ### Weather Application
+An application that is able to tell the current weather conditions of the area you are in. The application uses
+an API from Yahoo Weather.
